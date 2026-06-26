@@ -1,4 +1,7 @@
-## Heyyyyy 
+<div align="left">
+
+# Harsh Pratap Singh
+**3rd-Year Undergrad | AI/ML | C++ & Python**
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sorryitsnotharsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshpratapsingh333/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sorryitsnotharsh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.psingh2005@gmail.com) 
